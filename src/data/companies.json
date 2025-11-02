@@ -1,0 +1,2090 @@
+[
+  {
+    "id": 1,
+    "name": "Accenture",
+    "careerPage": "https://www.accenture.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/accenture"
+  },
+  {
+    "id": 2,
+    "name": "Adobe",
+    "careerPage": "https://careers.adobe.com",
+    "linkedIn": "https://www.linkedin.com/company/adobe"
+  },
+  {
+    "id": 3,
+    "name": "Amazon",
+    "careerPage": "https://www.amazon.jobs",
+    "linkedIn": "https://www.linkedin.com/company/amazon"
+  },
+  {
+    "id": 4,
+    "name": "Apple",
+    "careerPage": "https://www.apple.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/apple"
+  },
+  {
+    "id": 5,
+    "name": "Atlassian",
+    "careerPage": "https://www.atlassian.com/company/careers",
+    "linkedIn": "https://www.linkedin.com/company/atlassian"
+  },
+  {
+    "id": 6,
+    "name": "Booking.com",
+    "careerPage": "https://careers.booking.com",
+    "linkedIn": "https://www.linkedin.com/company/booking.com"
+  },
+  {
+    "id": 7,
+    "name": "Cisco",
+    "careerPage": "https://www.cisco.com/c/en/us/about/careers.html",
+    "linkedIn": "https://www.linkedin.com/company/cisco"
+  },
+  {
+    "id": 8,
+    "name": "Cloudflare",
+    "careerPage": "https://www.cloudflare.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/cloudflare"
+  },
+  {
+    "id": 9,
+    "name": "Databricks",
+    "careerPage": "https://www.databricks.com/company/careers",
+    "linkedIn": "https://www.linkedin.com/company/databricks"
+  },
+  {
+    "id": 10,
+    "name": "Deloitte",
+    "careerPage": "https://www2.deloitte.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/deloitte"
+  },
+  {
+    "id": 11,
+    "name": "Docker",
+    "careerPage": "https://www.docker.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/docker"
+  },
+  {
+    "id": 12,
+    "name": "Dropbox",
+    "careerPage": "https://www.dropbox.com/jobs",
+    "linkedIn": "https://www.linkedin.com/company/dropbox"
+  },
+  {
+    "id": 13,
+    "name": "eBay",
+    "careerPage": "https://jobs.ebayinc.com/us/en",
+    "linkedIn": "https://www.linkedin.com/company/ebay"
+  },
+  {
+    "id": 14,
+    "name": "Expedia",
+    "careerPage": "https://lifeatexpediagroup.com/jobs",
+    "linkedIn": "https://www.linkedin.com/company/expedia"
+  },
+  {
+    "id": 15,
+    "name": "Facebook (Meta)",
+    "careerPage": "https://www.metacareers.com",
+    "linkedIn": "https://www.linkedin.com/company/meta"
+  },
+  {
+    "id": 16,
+    "name": "Figma",
+    "careerPage": "https://www.figma.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/figma"
+  },
+  {
+    "id": 17,
+    "name": "GitHub",
+    "careerPage": "https://github.com/about/careers",
+    "linkedIn": "https://www.linkedin.com/company/github"
+  },
+  {
+    "id": 18,
+    "name": "Google",
+    "careerPage": "https://careers.google.com",
+    "linkedIn": "https://www.linkedin.com/company/google"
+  },
+  {
+    "id": 19,
+    "name": "HubSpot",
+    "careerPage": "https://www.hubspot.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/hubspot"
+  },
+  {
+    "id": 20,
+    "name": "IBM",
+    "careerPage": "https://www.ibm.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/ibm"
+  },
+  {
+    "id": 21,
+    "name": "Intel",
+    "careerPage": "https://jobs.intel.com",
+    "linkedIn": "https://www.linkedin.com/company/intel-corporation"
+  },
+  {
+    "id": 22,
+    "name": "JPMorgan Chase",
+    "careerPage": "https://careers.jpmorgan.com",
+    "linkedIn": "https://www.linkedin.com/company/jpmorganchase"
+  },
+  {
+    "id": 23,
+    "name": "LinkedIn",
+    "careerPage": "https://careers.linkedin.com",
+    "linkedIn": "https://www.linkedin.com/company/linkedin"
+  },
+  {
+    "id": 24,
+    "name": "Microsoft",
+    "careerPage": "https://careers.microsoft.com",
+    "linkedIn": "https://www.linkedin.com/company/microsoft"
+  },
+  {
+    "id": 25,
+    "name": "MongoDB",
+    "careerPage": "https://www.mongodb.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/mongodb"
+  },
+  {
+    "id": 26,
+    "name": "Netflix",
+    "careerPage": "https://jobs.netflix.com",
+    "linkedIn": "https://www.linkedin.com/company/netflix"
+  },
+  {
+    "id": 27,
+    "name": "Notion",
+    "careerPage": "https://www.notion.so/careers",
+    "linkedIn": "https://www.linkedin.com/company/notionhq"
+  },
+  {
+    "id": 28,
+    "name": "NVIDIA",
+    "careerPage": "https://www.nvidia.com/en-us/about-nvidia/careers",
+    "linkedIn": "https://www.linkedin.com/company/nvidia"
+  },
+  {
+    "id": 29,
+    "name": "Oracle",
+    "careerPage": "https://www.oracle.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/oracle"
+  },
+  {
+    "id": 30,
+    "name": "Palantir",
+    "careerPage": "https://www.palantir.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/palantir-technologies"
+  },
+  {
+    "id": 31,
+    "name": "PayPal",
+    "careerPage": "https://careers.pypl.com",
+    "linkedIn": "https://www.linkedin.com/company/paypal"
+  },
+  {
+    "id": 32,
+    "name": "Pinterest",
+    "careerPage": "https://www.pinterestcareers.com/",
+    "linkedIn": "https://www.linkedin.com/company/pinterest"
+  },
+  {
+    "id": 33,
+    "name": "Qualcomm",
+    "careerPage": "https://www.qualcomm.com/company/careers",
+    "linkedIn": "https://www.linkedin.com/company/qualcomm"
+  },
+  {
+    "id": 34,
+    "name": "Reddit",
+    "careerPage": "https://www.redditinc.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/reddit-com"
+  },
+  {
+    "id": 35,
+    "name": "Salesforce",
+    "careerPage": "https://www.salesforce.com/company/careers",
+    "linkedIn": "https://www.linkedin.com/company/salesforce"
+  },
+  {
+    "id": 36,
+    "name": "SAP",
+    "careerPage": "https://jobs.sap.com",
+    "linkedIn": "https://www.linkedin.com/company/sap"
+  },
+  {
+    "id": 37,
+    "name": "Shopify",
+    "careerPage": "https://www.shopify.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/shopify"
+  },
+  {
+    "id": 38,
+    "name": "Slack",
+    "careerPage": "https://slack.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/slack"
+  },
+  {
+    "id": 39,
+    "name": "Snap",
+    "careerPage": "https://careers.snap.com",
+    "linkedIn": "https://www.linkedin.com/company/snap-inc-co"
+  },
+  {
+    "id": 40,
+    "name": "Snowflake",
+    "careerPage": "https://careers.snowflake.com",
+    "linkedIn": "https://www.linkedin.com/company/snowflake-computing"
+  },
+  {
+    "id": 41,
+    "name": "Spotify",
+    "careerPage": "https://www.lifeatspotify.com/jobs",
+    "linkedIn": "https://www.linkedin.com/company/spotify"
+  },
+  {
+    "id": 42,
+    "name": "Square",
+    "careerPage": "https://careers.squareup.com",
+    "linkedIn": "https://www.linkedin.com/company/square"
+  },
+  {
+    "id": 43,
+    "name": "Stripe",
+    "careerPage": "https://stripe.com/jobs",
+    "linkedIn": "https://www.linkedin.com/company/stripe"
+  },
+  {
+    "id": 44,
+    "name": "Tesla",
+    "careerPage": "https://www.tesla.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/tesla-motors"
+  },
+  {
+    "id": 45,
+    "name": "Twilio",
+    "careerPage": "https://www.twilio.com/company/jobs",
+    "linkedIn": "https://www.linkedin.com/company/twilio-inc-"
+  },
+  {
+    "id": 46,
+    "name": "Twitter (X)",
+    "careerPage": "https://careers.twitter.com",
+    "linkedIn": "https://www.linkedin.com/company/twitter"
+  },
+  {
+    "id": 47,
+    "name": "Uber",
+    "careerPage": "https://www.uber.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/uber-com"
+  },
+  {
+    "id": 48,
+    "name": "Vercel",
+    "careerPage": "https://vercel.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/vercel"
+  },
+  {
+    "id": 49,
+    "name": "VMware",
+    "careerPage": "https://careers.vmware.com/main",
+    "linkedIn": "https://www.linkedin.com/company/vmware"
+  },
+  {
+    "id": 50,
+    "name": "Zoom",
+    "careerPage": "https://careers.zoom.us",
+    "linkedIn": "https://www.linkedin.com/company/zoom-video-communications"
+  },
+  {
+    "id": 51,
+    "name": "Acko",
+    "careerPage": "https://www.acko.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/acko"
+  },
+  {
+    "id": 52,
+    "name": "Airbase",
+    "careerPage": "https://www.airbase.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/airbase"
+  },
+  {
+    "id": 53,
+    "name": "Airbnb",
+    "careerPage": "https://careers.airbnb.com",
+    "linkedIn": "https://www.linkedin.com/company/airbnb"
+  },
+  {
+    "id": 54,
+    "name": "Airbus",
+    "careerPage": "https://www.airbus.com/en/careers",
+    "linkedIn": "https://www.linkedin.com/company/airbus"
+  },
+  {
+    "id": 55,
+    "name": "Airtel X Labs",
+    "careerPage": "https://www.airtel.in/careers",
+    "linkedIn": "https://www.linkedin.com/company/airtel-x-labs"
+  },
+  {
+    "id": 56,
+    "name": "Ajio",
+    "careerPage": "https://careers.reliance.com",
+    "linkedIn": "https://www.linkedin.com/company/ajio-com"
+  },
+  {
+    "id": 57,
+    "name": "Akamai",
+    "careerPage": "https://akamaicareers.inflightcloud.com",
+    "linkedIn": "https://www.linkedin.com/company/akamai-technologies"
+  },
+  {
+    "id": 58,
+    "name": "AlphaGrep",
+    "careerPage": "https://www.alphagrep.com",
+    "linkedIn": "https://www.linkedin.com/company/alphagrep-securities"
+  },
+  {
+    "id": 59,
+    "name": "Alphonso",
+    "careerPage": "https://www.alphonso.tv/careers",
+    "linkedIn": "https://www.linkedin.com/company/alphonso"
+  },
+  {
+    "id": 60,
+    "name": "Amagi",
+    "careerPage": "https://www.amagi.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/amagi-media-labs"
+  },
+  {
+    "id": 61,
+    "name": "American Express",
+    "careerPage": "https://aexp.eightfold.ai",
+    "linkedIn": "https://www.linkedin.com/company/american-express"
+  },
+  {
+    "id": 62,
+    "name": "Angel One",
+    "careerPage": "https://www.angelone.in/careers",
+    "linkedIn": "https://www.linkedin.com/company/angel-one"
+  },
+  {
+    "id": 63,
+    "name": "Ansys",
+    "careerPage": "https://careers.ansys.com",
+    "linkedIn": "https://www.linkedin.com/company/ansys-inc"
+  },
+  {
+    "id": 64,
+    "name": "Anthem",
+    "careerPage": "https://careers.antheminc.com",
+    "linkedIn": "https://www.linkedin.com/company/elevancehealth"
+  },
+  {
+    "id": 65,
+    "name": "Apna",
+    "careerPage": "https://apna.co/careers",
+    "linkedIn": "https://www.linkedin.com/company/apna"
+  },
+  {
+    "id": 66,
+    "name": "AppDynamics",
+    "careerPage": "https://www.appdynamics.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/appdynamics"
+  },
+  {
+    "id": 67,
+    "name": "Arcesium",
+    "careerPage": "https://www.arcesium.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/arcesium"
+  },
+  {
+    "id": 68,
+    "name": "Arista",
+    "careerPage": "https://www.arista.com/en/careers",
+    "linkedIn": "https://www.linkedin.com/company/arista-networks-inc"
+  },
+  {
+    "id": 69,
+    "name": "AutoDesk",
+    "careerPage": "https://www.autodesk.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/autodesk"
+  },
+  {
+    "id": 70,
+    "name": "Auzmor",
+    "careerPage": "https://www.auzmor.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/auzmor"
+  },
+  {
+    "id": 71,
+    "name": "Avail Finance",
+    "careerPage": "https://www.availfinance.in/careers",
+    "linkedIn": "https://www.linkedin.com/company/avail-finance"
+  },
+  {
+    "id": 72,
+    "name": "Avalara",
+    "careerPage": "https://www.avalara.com/us/en/about/careers.html",
+    "linkedIn": "https://www.linkedin.com/company/avalara"
+  },
+  {
+    "id": 73,
+    "name": "BCG",
+    "careerPage": "https://careers.bcg.com",
+    "linkedIn": "https://www.linkedin.com/company/boston-consulting-group"
+  },
+  {
+    "id": 74,
+    "name": "BNY Mellon",
+    "careerPage": "https://www.bnymellon.com/us/en/careers.html",
+    "linkedIn": "https://www.linkedin.com/company/bny-mellon"
+  },
+  {
+    "id": 75,
+    "name": "Bain & Company",
+    "careerPage": "https://www.bain.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/bain-and-company"
+  },
+  {
+    "id": 76,
+    "name": "Bankbazaar",
+    "careerPage": "https://www.bankbazaar.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/bankbazaar.com"
+  },
+  {
+    "id": 77,
+    "name": "Belzabar",
+    "careerPage": "https://belzabar.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/belzabar"
+  },
+  {
+    "id": 78,
+    "name": "Bharatpe",
+    "careerPage": "https://bharatpe.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/bharatpe"
+  },
+  {
+    "id": 79,
+    "name": "Bigbasket",
+    "careerPage": "https://www.bigbasket.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/bigbasket-com"
+  },
+  {
+    "id": 80,
+    "name": "Biofourmis",
+    "careerPage": "https://www.biofourmis.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/biofourmis"
+  },
+  {
+    "id": 81,
+    "name": "Bizongo",
+    "careerPage": "https://www.bizongo.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/bizongo"
+  },
+  {
+    "id": 82,
+    "name": "Blackbuck",
+    "careerPage": "https://www.blackbuck.com",
+    "linkedIn": "https://www.linkedin.com/company/blackbuck"
+  },
+  {
+    "id": 83,
+    "name": "Blinkit",
+    "careerPage": "https://www.blinkit.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/blinkit"
+  },
+  {
+    "id": 84,
+    "name": "BloomReach",
+    "careerPage": "https://www.bloomreach.com/en/careers",
+    "linkedIn": "https://www.linkedin.com/company/bloomreach"
+  },
+  {
+    "id": 85,
+    "name": "Bright Money",
+    "careerPage": "https://www.brightmoney.co/careers",
+    "linkedIn": "https://www.linkedin.com/company/bright-money"
+  },
+  {
+    "id": 86,
+    "name": "Broadcom",
+    "careerPage": "https://www.broadcom.com/company/careers",
+    "linkedIn": "https://www.linkedin.com/company/broadcom"
+  },
+  {
+    "id": 87,
+    "name": "Browserstack",
+    "careerPage": "https://www.browserstack.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/browserstack"
+  },
+  {
+    "id": 88,
+    "name": "Bukuwarung",
+    "careerPage": "https://www.bukuwarung.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/bukuwarung"
+  },
+  {
+    "id": 89,
+    "name": "Buyhatke",
+    "careerPage": "https://www.buyhatke.com",
+    "linkedIn": "https://www.linkedin.com/company/buyhatke"
+  },
+  {
+    "id": 90,
+    "name": "Byjus",
+    "careerPage": "https://byjus.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/byjus"
+  },
+  {
+    "id": 91,
+    "name": "C2FO",
+    "careerPage": "https://c2fo.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/c2fo"
+  },
+  {
+    "id": 92,
+    "name": "Cadence",
+    "careerPage": "https://www.cadence.com/en_US/home/company/careers.html",
+    "linkedIn": "https://www.linkedin.com/company/cadence-design-systems"
+  },
+  {
+    "id": 93,
+    "name": "CashFree",
+    "careerPage": "https://www.cashfree.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/cashfree"
+  },
+  {
+    "id": 94,
+    "name": "Chargebee",
+    "careerPage": "https://www.chargebee.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/chargebee"
+  },
+  {
+    "id": 95,
+    "name": "Chegg",
+    "careerPage": "https://www.chegg.com/about/careers",
+    "linkedIn": "https://www.linkedin.com/company/chegg-inc-"
+  },
+  {
+    "id": 96,
+    "name": "Chronus Software",
+    "careerPage": "https://chronus.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/chronus-software"
+  },
+  {
+    "id": 97,
+    "name": "Citi Bank",
+    "careerPage": "https://jobs.citi.com",
+    "linkedIn": "https://www.linkedin.com/company/citi"
+  },
+  {
+    "id": 98,
+    "name": "Citrix",
+    "careerPage": "https://www.citrix.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/citrix"
+  },
+  {
+    "id": 99,
+    "name": "Citymall",
+    "careerPage": "https://www.citymall.live",
+    "linkedIn": "https://www.linkedin.com/company/citymall-live"
+  },
+  {
+    "id": 100,
+    "name": "Clarisights",
+    "careerPage": "https://www.clarisights.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/clarisights"
+  },
+  {
+    "id": 101,
+    "name": "ClearQuote",
+    "careerPage": "https://www.clearquote.io",
+    "linkedIn": "https://www.linkedin.com/company/clearquote"
+  },
+  {
+    "id": 102,
+    "name": "ClearTax",
+    "careerPage": "https://cleartax.in",
+    "linkedIn": "https://www.linkedin.com/company/cleartax"
+  },
+  {
+    "id": 103,
+    "name": "ClearTrip",
+    "careerPage": "https://www.cleartrip.com",
+    "linkedIn": "https://www.linkedin.com/company/cleartrip"
+  },
+  {
+    "id": 104,
+    "name": "Cloootrack",
+    "careerPage": "https://cloootrack.com",
+    "linkedIn": "https://www.linkedin.com/company/cloootrack-com"
+  },
+  {
+    "id": 105,
+    "name": "Cloud Lending",
+    "careerPage": "https://www.cloudlendingsolutions.com",
+    "linkedIn": "https://www.linkedin.com/company/cloudlending"
+  },
+  {
+    "id": 106,
+    "name": "Clumio",
+    "careerPage": "https://www.clumio.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/clumio"
+  },
+  {
+    "id": 107,
+    "name": "Credgenics",
+    "careerPage": "https://www.credgenics.com",
+    "linkedIn": "https://www.linkedin.com/company/credgenics"
+  },
+  {
+    "id": 108,
+    "name": "Codenation",
+    "careerPage": "https://www.codenation.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/codenation"
+  },
+  {
+    "id": 109,
+    "name": "Cogoport",
+    "careerPage": "https://www.cogoport.com",
+    "linkedIn": "https://www.linkedin.com/company/cogoport"
+  },
+  {
+    "id": 110,
+    "name": "Cohesity",
+    "careerPage": "https://www.cohesity.com/company/careers",
+    "linkedIn": "https://www.linkedin.com/company/cohesity"
+  },
+  {
+    "id": 111,
+    "name": "Coinbase",
+    "careerPage": "https://www.coinbase.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/coinbase"
+  },
+  {
+    "id": 112,
+    "name": "Coinswitch",
+    "careerPage": "https://coinswitch.co",
+    "linkedIn": "https://www.linkedin.com/company/coinswitch"
+  },
+  {
+    "id": 113,
+    "name": "CommerceIQ",
+    "careerPage": "https://www.commerceiq.ai/careers",
+    "linkedIn": "https://www.linkedin.com/company/commerceiq"
+  },
+  {
+    "id": 114,
+    "name": "Commvault",
+    "careerPage": "https://www.commvault.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/commvault"
+  },
+  {
+    "id": 115,
+    "name": "Confluent",
+    "careerPage": "https://www.confluent.io/careers",
+    "linkedIn": "https://www.linkedin.com/company/confluent"
+  },
+  {
+    "id": 116,
+    "name": "CouchBase",
+    "careerPage": "https://www.couchbase.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/couchbase"
+  },
+  {
+    "id": 117,
+    "name": "Cred",
+    "careerPage": "https://cred.club",
+    "linkedIn": "https://www.linkedin.com/company/cred-club"
+  },
+  {
+    "id": 118,
+    "name": "Credit Suisse",
+    "careerPage": "https://www.credit-suisse.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/credit-suisse"
+  },
+  {
+    "id": 119,
+    "name": "Crowdfire",
+    "careerPage": "https://www.crowdfireapp.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/crowdfire"
+  },
+  {
+    "id": 120,
+    "name": "Cult Fit",
+    "careerPage": "https://www.cult.fit/careers",
+    "linkedIn": "https://www.linkedin.com/company/curefit"
+  },
+  {
+    "id": 121,
+    "name": "DE Shaw",
+    "careerPage": "https://www.deshaw.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/d-e-shaw-&-co-"
+  },
+  {
+    "id": 122,
+    "name": "Daily Rounds",
+    "careerPage": "https://www.dailyrounds.org/careers",
+    "linkedIn": "https://www.linkedin.com/company/dailyrounds"
+  },
+  {
+    "id": 123,
+    "name": "Datadog",
+    "careerPage": "https://www.datadoghq.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/datadog"
+  },
+  {
+    "id": 124,
+    "name": "Dealshare",
+    "careerPage": "https://www.dealshare.in",
+    "linkedIn": "https://www.linkedin.com/company/dealshare"
+  },
+  {
+    "id": 125,
+    "name": "Delhivery",
+    "careerPage": "https://www.delhivery.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/delhivery"
+  },
+  {
+    "id": 126,
+    "name": "Dialpad",
+    "careerPage": "https://www.dialpad.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/dialpad"
+  },
+  {
+    "id": 127,
+    "name": "Directi",
+    "careerPage": "https://www.directi.com",
+    "linkedIn": "https://www.linkedin.com/company/directi"
+  },
+  {
+    "id": 128,
+    "name": "Dp world",
+    "careerPage": "https://careers.dpworld.com",
+    "linkedIn": "https://www.linkedin.com/company/dp-world"
+  },
+  {
+    "id": 129,
+    "name": "Dream 11",
+    "careerPage": "https://www.dream11.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/dream11"
+  },
+  {
+    "id": 130,
+    "name": "Dremio",
+    "careerPage": "https://www.dremio.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/dremio"
+  },
+  {
+    "id": 131,
+    "name": "Druva",
+    "careerPage": "https://www.druva.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/druva"
+  },
+  {
+    "id": 132,
+    "name": "Duetshe bank",
+    "careerPage": "https://www.db.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/deutsche-bank"
+  },
+  {
+    "id": 133,
+    "name": "Dunzo",
+    "careerPage": "https://www.dunzo.com",
+    "linkedIn": "https://www.linkedin.com/company/dunzo"
+  },
+  {
+    "id": 134,
+    "name": "Eightfold ai",
+    "careerPage": "https://eightfold.ai/careers",
+    "linkedIn": "https://www.linkedin.com/company/eightfold-ai"
+  },
+  {
+    "id": 135,
+    "name": "Electronics Arts",
+    "careerPage": "https://www.ea.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/electronic-arts"
+  },
+  {
+    "id": 136,
+    "name": "Eltropy",
+    "careerPage": "https://www.eltropy.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/eltropy"
+  },
+  {
+    "id": 137,
+    "name": "Endurance",
+    "careerPage": "https://www.endurance.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/endurance-international-group"
+  },
+  {
+    "id": 138,
+    "name": "Enfusion",
+    "careerPage": "https://www.enfusion.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/enfusion-inc"
+  },
+  {
+    "id": 139,
+    "name": "Epifi",
+    "careerPage": "https://www.epifi.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/epifi"
+  },
+  {
+    "id": 140,
+    "name": "Falabella",
+    "careerPage": "https://www.falabella.com",
+    "linkedIn": "https://www.linkedin.com/company/s-a-c-i-falabella"
+  },
+  {
+    "id": 141,
+    "name": "Fanclash",
+    "careerPage": "https://www.fanclash.com",
+    "linkedIn": "https://www.linkedin.com/company/fanclash"
+  },
+  {
+    "id": 142,
+    "name": "FarEye",
+    "careerPage": "https://www.fareye.com",
+    "linkedIn": "https://www.linkedin.com/company/fareye"
+  },
+  {
+    "id": 143,
+    "name": "Fidelity Investments",
+    "careerPage": "https://jobs.fidelity.com",
+    "linkedIn": "https://www.linkedin.com/company/fidelity-investments"
+  },
+  {
+    "id": 144,
+    "name": "Fleetx",
+    "careerPage": "https://www.fleetx.io",
+    "linkedIn": "https://www.linkedin.com/company/fleetx-io"
+  },
+  {
+    "id": 145,
+    "name": "Flipkart",
+    "careerPage": "https://www.flipkartcareers.com",
+    "linkedIn": "https://www.linkedin.com/company/flipkart"
+  },
+  {
+    "id": 146,
+    "name": "Flock",
+    "careerPage": "https://www.flock.com",
+    "linkedIn": "https://www.linkedin.com/company/flock"
+  },
+  {
+    "id": 147,
+    "name": "Fraazo",
+    "careerPage": "https://www.fraazo.com",
+    "linkedIn": "https://www.linkedin.com/company/fraazo"
+  },
+  {
+    "id": 148,
+    "name": "FreeCharge",
+    "careerPage": "https://www.freecharge.in",
+    "linkedIn": "https://www.linkedin.com/company/freecharge"
+  },
+  {
+    "id": 149,
+    "name": "FreshMenu",
+    "careerPage": "https://www.freshmenu.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/freshmenu"
+  },
+  {
+    "id": 150,
+    "name": "FreshWorks",
+    "careerPage": "https://www.freshworks.com/company/careers",
+    "linkedIn": "https://www.linkedin.com/company/freshworks-inc"
+  },
+  {
+    "id": 151,
+    "name": "FrontRow",
+    "careerPage": "https://www.frontrow.co.in/careers",
+    "linkedIn": "https://www.linkedin.com/company/frontrow"
+  },
+  {
+    "id": 152,
+    "name": "FunPlus",
+    "careerPage": "https://www.funplus.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/funplus"
+  },
+  {
+    "id": 153,
+    "name": "GE Health Care",
+    "careerPage": "https://www.gehealthcare.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/gehealthcare"
+  },
+  {
+    "id": 154,
+    "name": "Games 24x7",
+    "careerPage": "https://www.games24x7.com",
+    "linkedIn": "https://www.linkedin.com/company/games24x7-inc"
+  },
+  {
+    "id": 155,
+    "name": "GamesKraft",
+    "careerPage": "https://www.gameskraft.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/gameskraft"
+  },
+  {
+    "id": 156,
+    "name": "Gartner",
+    "careerPage": "https://jobs.gartner.com",
+    "linkedIn": "https://www.linkedin.com/company/gartner"
+  },
+  {
+    "id": 157,
+    "name": "Glance",
+    "careerPage": "https://www.glance.com",
+    "linkedIn": "https://www.linkedin.com/company/glance"
+  },
+  {
+    "id": 158,
+    "name": "Gojek",
+    "careerPage": "https://www.gojek.io/careers",
+    "linkedIn": "https://www.linkedin.com/company/gojek-tech"
+  },
+  {
+    "id": 159,
+    "name": "Goldman sachs",
+    "careerPage": "https://www.goldmansachs.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/goldman-sachs"
+  },
+  {
+    "id": 160,
+    "name": "GoodWorker",
+    "careerPage": "https://www.goodworker.in/careers",
+    "linkedIn": "https://www.linkedin.com/company/goodworker"
+  },
+  {
+    "id": 161,
+    "name": "Grab",
+    "careerPage": "https://grab.careers",
+    "linkedIn": "https://www.linkedin.com/company/grabapp"
+  },
+  {
+    "id": 162,
+    "name": "Graviton",
+    "careerPage": "https://www.graviton.co.in",
+    "linkedIn": "https://www.linkedin.com/company/graviton-research-capital"
+  },
+  {
+    "id": 163,
+    "name": "Groupon",
+    "careerPage": "https://jobs.groupon.com",
+    "linkedIn": "https://www.linkedin.com/company/groupon"
+  },
+  {
+    "id": 164,
+    "name": "Groww",
+    "careerPage": "https://groww.in/careers",
+    "linkedIn": "https://www.linkedin.com/company/groww"
+  },
+  {
+    "id": 165,
+    "name": "Gupshup",
+    "careerPage": "https://www.gupshup.io/careers",
+    "linkedIn": "https://www.linkedin.com/company/gupshup"
+  },
+  {
+    "id": 166,
+    "name": "Harness",
+    "careerPage": "https://www.harness.io/company/careers",
+    "linkedIn": "https://www.linkedin.com/company/harness-inc"
+  },
+  {
+    "id": 167,
+    "name": "Headout",
+    "careerPage": "https://www.headout.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/headout-com"
+  },
+  {
+    "id": 168,
+    "name": "Hedge Fund",
+    "careerPage": "https://www.hedgefund.com",
+    "linkedIn": "https://www.linkedin.com/company/hedgefund"
+  },
+  {
+    "id": 169,
+    "name": "Hotstar",
+    "careerPage": "https://www.hotstar.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/hotstar"
+  },
+  {
+    "id": 170,
+    "name": "Idrive",
+    "careerPage": "https://www.idrive.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/idrive"
+  },
+  {
+    "id": 171,
+    "name": "Indeed",
+    "careerPage": "https://www.indeed.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/indeed-com"
+  },
+  {
+    "id": 172,
+    "name": "IndiaMart",
+    "careerPage": "https://www.indiamart.com",
+    "linkedIn": "https://www.linkedin.com/company/indiamart-intermesh-limited"
+  },
+  {
+    "id": 173,
+    "name": "Indiagold",
+    "careerPage": "https://www.indiagold.co",
+    "linkedIn": "https://www.linkedin.com/company/indiagold-fintech"
+  },
+  {
+    "id": 174,
+    "name": "Indmoney",
+    "careerPage": "https://www.indmoney.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/indmoney"
+  },
+  {
+    "id": 175,
+    "name": "InfoEdge",
+    "careerPage": "https://www.infoedge.in",
+    "linkedIn": "https://www.linkedin.com/company/info-edge"
+  },
+  {
+    "id": 176,
+    "name": "Informatica",
+    "careerPage": "https://www.informatica.com/about-us/careers.html",
+    "linkedIn": "https://www.linkedin.com/company/informatica"
+  },
+  {
+    "id": 177,
+    "name": "Infoworks",
+    "careerPage": "https://www.infoworks.io",
+    "linkedIn": "https://www.linkedin.com/company/infoworks-io"
+  },
+  {
+    "id": 178,
+    "name": "Inmobi",
+    "careerPage": "https://www.inmobi.com/company/careers",
+    "linkedIn": "https://www.linkedin.com/company/inmobi"
+  },
+  {
+    "id": 179,
+    "name": "Innovacer",
+    "careerPage": "https://innovacer.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/innovaccer"
+  },
+  {
+    "id": 180,
+    "name": "InsideView",
+    "careerPage": "https://www.insideview.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/insideview"
+  },
+  {
+    "id": 181,
+    "name": "Instabase",
+    "careerPage": "https://instabase.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/instabase"
+  },
+  {
+    "id": 182,
+    "name": "Intuit",
+    "careerPage": "https://www.intuit.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/intuit"
+  },
+  {
+    "id": 183,
+    "name": "Ion Trading",
+    "careerPage": "https://iongroup.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/ion"
+  },
+  {
+    "id": 184,
+    "name": "Itilite",
+    "careerPage": "https://www.itilite.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/itilite"
+  },
+  {
+    "id": 185,
+    "name": "Ixigo",
+    "careerPage": "https://www.ixigo.com/about/careers",
+    "linkedIn": "https://www.linkedin.com/company/ixigo"
+  },
+  {
+    "id": 186,
+    "name": "Jio",
+    "careerPage": "https://www.jio.com",
+    "linkedIn": "https://www.linkedin.com/company/jio"
+  },
+  {
+    "id": 187,
+    "name": "JPMC",
+    "careerPage": "https://careers.jpmorgan.com",
+    "linkedIn": "https://www.linkedin.com/company/jpmorganchase"
+  },
+  {
+    "id": 188,
+    "name": "Jumio",
+    "careerPage": "https://www.jumio.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/jumio-netswipe"
+  },
+  {
+    "id": 189,
+    "name": "Jungle Games",
+    "careerPage": "https://www.junglee.games",
+    "linkedIn": "https://www.linkedin.com/company/junglee-games"
+  },
+  {
+    "id": 190,
+    "name": "Juniper Networks",
+    "careerPage": "https://www.juniper.net/us/en/company/careers.html",
+    "linkedIn": "https://www.linkedin.com/company/juniper-networks"
+  },
+  {
+    "id": 191,
+    "name": "Jupiter Money",
+    "careerPage": "https://jupiter.money/careers",
+    "linkedIn": "https://www.linkedin.com/company/jupiter-money"
+  },
+  {
+    "id": 192,
+    "name": "Juspay",
+    "careerPage": "https://juspay.in/careers",
+    "linkedIn": "https://www.linkedin.com/company/juspay-technologies"
+  },
+  {
+    "id": 193,
+    "name": "KLA",
+    "careerPage": "https://www.kla.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/kla"
+  },
+  {
+    "id": 194,
+    "name": "Khatabook",
+    "careerPage": "https://khatabook.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/khatabook"
+  },
+  {
+    "id": 195,
+    "name": "Komprise",
+    "careerPage": "https://www.komprise.com",
+    "linkedIn": "https://www.linkedin.com/company/komprise"
+  },
+  {
+    "id": 196,
+    "name": "Kuvera",
+    "careerPage": "https://kuvera.in/careers",
+    "linkedIn": "https://www.linkedin.com/company/kuvera-in"
+  },
+  {
+    "id": 197,
+    "name": "LambdaTest",
+    "careerPage": "https://www.lambdatest.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/lambdatest"
+  },
+  {
+    "id": 198,
+    "name": "Leap Finance",
+    "careerPage": "https://www.leapfinance.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/leapfinance"
+  },
+  {
+    "id": 199,
+    "name": "Leena ai",
+    "careerPage": "https://leena.ai",
+    "linkedIn": "https://www.linkedin.com/company/leena-ai"
+  },
+  {
+    "id": 200,
+    "name": "Lenskart",
+    "careerPage": "https://www.lenskart.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/lenskart-com"
+  },
+  {
+    "id": 201,
+    "name": "Licious",
+    "careerPage": "https://www.licious.in/careers",
+    "linkedIn": "https://www.linkedin.com/company/licious"
+  },
+  {
+    "id": 202,
+    "name": "Limeroad",
+    "careerPage": "https://www.limeroad.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/limeroad-com"
+  },
+  {
+    "id": 203,
+    "name": "Linq",
+    "careerPage": "https://www.linq.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/linq"
+  },
+  {
+    "id": 204,
+    "name": "Livspace",
+    "careerPage": "https://www.livspace.com/in/careers",
+    "linkedIn": "https://www.linkedin.com/company/livspace"
+  },
+  {
+    "id": 205,
+    "name": "Loco",
+    "careerPage": "https://www.loco.gg/careers",
+    "linkedIn": "https://www.linkedin.com/company/loco"
+  },
+  {
+    "id": 206,
+    "name": "MPL",
+    "careerPage": "https://www.mpl.live",
+    "linkedIn": "https://www.linkedin.com/company/mpl"
+  },
+  {
+    "id": 207,
+    "name": "Magnitude",
+    "careerPage": "https://magnitude.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/magnitude-software"
+  },
+  {
+    "id": 208,
+    "name": "MakeMyTrip",
+    "careerPage": "https://www.makemytrip.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/makemytrip"
+  },
+  {
+    "id": 209,
+    "name": "Mastercard",
+    "careerPage": "https://www.mastercard.us/en-us/about-mastercard/careers.html",
+    "linkedIn": "https://www.linkedin.com/company/mastercard"
+  },
+  {
+    "id": 210,
+    "name": "MathWorks",
+    "careerPage": "https://www.mathworks.com/company/jobs.html",
+    "linkedIn": "https://www.linkedin.com/company/the-mathworks_2"
+  },
+  {
+    "id": 211,
+    "name": "McKinsey",
+    "careerPage": "https://www.mckinsey.com/careers/home",
+    "linkedIn": "https://www.linkedin.com/company/mckinsey"
+  },
+  {
+    "id": 212,
+    "name": "Medianet",
+    "careerPage": "https://www.media.net/careers",
+    "linkedIn": "https://www.linkedin.com/company/media-net"
+  },
+  {
+    "id": 213,
+    "name": "Meesho",
+    "careerPage": "https://www.meesho.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/meesho"
+  },
+  {
+    "id": 214,
+    "name": "Mediatek",
+    "careerPage": "https://www.mediatek.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/mediatek"
+  },
+  {
+    "id": 215,
+    "name": "Mentor Graphics",
+    "careerPage": "https://eda.sw.siemens.com/en-US/careers",
+    "linkedIn": "https://www.linkedin.com/company/siemens-eda"
+  },
+  {
+    "id": 216,
+    "name": "Mfine",
+    "careerPage": "https://www.mfine.co",
+    "linkedIn": "https://www.linkedin.com/company/mfine"
+  },
+  {
+    "id": 217,
+    "name": "MindTickle",
+    "careerPage": "https://www.mindtickle.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/mindtickle"
+  },
+  {
+    "id": 218,
+    "name": "MoenGage",
+    "careerPage": "https://www.moengage.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/moengage"
+  },
+  {
+    "id": 219,
+    "name": "Money Control",
+    "careerPage": "https://www.moneycontrol.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/moneycontrol-com"
+  },
+  {
+    "id": 220,
+    "name": "Moneyview",
+    "careerPage": "https://www.moneyview.in",
+    "linkedIn": "https://www.linkedin.com/company/moneyview"
+  },
+  {
+    "id": 221,
+    "name": "MoonFrog",
+    "careerPage": "https://moonfrog.com",
+    "linkedIn": "https://www.linkedin.com/company/moonfrog-labs"
+  },
+  {
+    "id": 222,
+    "name": "Morgan Stanley",
+    "careerPage": "https://www.morganstanley.com/people-opportunities",
+    "linkedIn": "https://www.linkedin.com/company/morgan-stanley"
+  },
+  {
+    "id": 223,
+    "name": "MotorQ",
+    "careerPage": "https://motorq.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/motorq"
+  },
+  {
+    "id": 224,
+    "name": "MSC",
+    "careerPage": "https://www.mscsoftware.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/msc-software"
+  },
+  {
+    "id": 225,
+    "name": "MyKaarma",
+    "careerPage": "https://mykaarma.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/mykaarma"
+  },
+  {
+    "id": 226,
+    "name": "Myntra",
+    "careerPage": "https://www.myntra.com",
+    "linkedIn": "https://www.linkedin.com/company/myntra"
+  },
+  {
+    "id": 227,
+    "name": "NK Securities",
+    "careerPage": "https://www.nksecurities.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/nk-securities"
+  },
+  {
+    "id": 228,
+    "name": "Nas Academy",
+    "careerPage": "https://www.nasacademy.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/nas-academy"
+  },
+  {
+    "id": 229,
+    "name": "National Instruments",
+    "careerPage": "https://www.ni.com/en/about-ni/careers.html",
+    "linkedIn": "https://www.linkedin.com/company/national-instruments"
+  },
+  {
+    "id": 230,
+    "name": "Navi",
+    "careerPage": "https://www.navi.com",
+    "linkedIn": "https://www.linkedin.com/company/navi-technologies"
+  },
+  {
+    "id": 231,
+    "name": "Nektar ai",
+    "careerPage": "https://www.nektar.ai/careers",
+    "linkedIn": "https://www.linkedin.com/company/nektar-ai"
+  },
+  {
+    "id": 232,
+    "name": "NetApp",
+    "careerPage": "https://www.netapp.com/company/careers",
+    "linkedIn": "https://www.linkedin.com/company/netapp"
+  },
+  {
+    "id": 233,
+    "name": "Netomi",
+    "careerPage": "https://www.netomi.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/netomi"
+  },
+  {
+    "id": 234,
+    "name": "NewFold Digital",
+    "careerPage": "https://www.newfold.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/newfold"
+  },
+  {
+    "id": 235,
+    "name": "Nference",
+    "careerPage": "https://nference.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/nference"
+  },
+  {
+    "id": 236,
+    "name": "Nike",
+    "careerPage": "https://jobs.nike.com",
+    "linkedIn": "https://www.linkedin.com/company/nike"
+  },
+  {
+    "id": 237,
+    "name": "Ninjacart",
+    "careerPage": "https://www.ninjacart.in",
+    "linkedIn": "https://www.linkedin.com/company/ninjacart-com"
+  },
+  {
+    "id": 238,
+    "name": "NoBroker",
+    "careerPage": "https://www.nobroker.in/careers",
+    "linkedIn": "https://www.linkedin.com/company/nobroker"
+  },
+  {
+    "id": 239,
+    "name": "Noccarc",
+    "careerPage": "https://www.noccarc.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/noccarc"
+  },
+  {
+    "id": 240,
+    "name": "Nurture Farm",
+    "careerPage": "https://www.nurture.farm",
+    "linkedIn": "https://www.linkedin.com/company/nurture-farm"
+  },
+  {
+    "id": 241,
+    "name": "Nutanix",
+    "careerPage": "https://www.nutanix.com/company/careers",
+    "linkedIn": "https://www.linkedin.com/company/nutanix"
+  },
+  {
+    "id": 242,
+    "name": "OCI",
+    "careerPage": "https://www.ociweb.com",
+    "linkedIn": "https://www.linkedin.com/company/oci"
+  },
+  {
+    "id": 243,
+    "name": "OLX Group",
+    "careerPage": "https://www.olxgroup.com/work-with-us",
+    "linkedIn": "https://www.linkedin.com/company/olx"
+  },
+  {
+    "id": 244,
+    "name": "OkCredit",
+    "careerPage": "https://okcredit.in/careers",
+    "linkedIn": "https://www.linkedin.com/company/okcredit"
+  },
+  {
+    "id": 245,
+    "name": "Ola",
+    "careerPage": "https://www.olacabs.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/ola-electric"
+  },
+  {
+    "id": 246,
+    "name": "Oppo",
+    "careerPage": "https://www.oppo.com/en/careers",
+    "linkedIn": "https://www.linkedin.com/company/oppo"
+  },
+  {
+    "id": 247,
+    "name": "Oyo",
+    "careerPage": "https://www.oyorooms.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/oyo-rooms"
+  },
+  {
+    "id": 248,
+    "name": "Palo Alto",
+    "careerPage": "https://www.paloaltonetworks.com/company/careers",
+    "linkedIn": "https://www.linkedin.com/company/palo-alto-networks"
+  },
+  {
+    "id": 249,
+    "name": "PayU",
+    "careerPage": "https://corporate.payu.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/payu"
+  },
+  {
+    "id": 250,
+    "name": "Paytm",
+    "careerPage": "https://paytm.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/paytm"
+  },
+  {
+    "id": 251,
+    "name": "Peak Ai",
+    "careerPage": "https://peak.ai/careers",
+    "linkedIn": "https://www.linkedin.com/company/peak-ai"
+  },
+  {
+    "id": 252,
+    "name": "PharmEasy",
+    "careerPage": "https://pharmeasy.in/careers",
+    "linkedIn": "https://www.linkedin.com/company/pharmeasy"
+  },
+  {
+    "id": 253,
+    "name": "Philips",
+    "careerPage": "https://www.careers.philips.com",
+    "linkedIn": "https://www.linkedin.com/company/philips"
+  },
+  {
+    "id": 254,
+    "name": "Phonepe",
+    "careerPage": "https://www.phonepe.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/phonepe"
+  },
+  {
+    "id": 255,
+    "name": "Pickrr",
+    "careerPage": "https://www.pickrr.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/pickrr"
+  },
+  {
+    "id": 256,
+    "name": "Plivo",
+    "careerPage": "https://www.plivo.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/plivo"
+  },
+  {
+    "id": 257,
+    "name": "PlumHQ",
+    "careerPage": "https://www.plumhq.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/plumhq"
+  },
+  {
+    "id": 258,
+    "name": "Porter",
+    "careerPage": "https://porter.in/careers",
+    "linkedIn": "https://www.linkedin.com/company/porter"
+  },
+  {
+    "id": 259,
+    "name": "Postman",
+    "careerPage": "https://www.postman.com/company/careers",
+    "linkedIn": "https://www.linkedin.com/company/postman-platform"
+  },
+  {
+    "id": 260,
+    "name": "Practo",
+    "careerPage": "https://www.practo.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/practo"
+  },
+  {
+    "id": 261,
+    "name": "Progress",
+    "careerPage": "https://www.progress.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/progress-software"
+  },
+  {
+    "id": 262,
+    "name": "PropertyGuru",
+    "careerPage": "https://www.propertyguru.com.sg/careers",
+    "linkedIn": "https://www.linkedin.com/company/propertyguru"
+  },
+  {
+    "id": 263,
+    "name": "Prophecy io",
+    "careerPage": "https://www.prophecy.io/careers",
+    "linkedIn": "https://www.linkedin.com/company/prophecy-io"
+  },
+  {
+    "id": 264,
+    "name": "Public Sapient",
+    "careerPage": "https://www.publicissapient.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/publicis-sapient"
+  },
+  {
+    "id": 265,
+    "name": "Quad Eye",
+    "careerPage": "https://www.quadeye.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/quadeye"
+  },
+  {
+    "id": 266,
+    "name": "Quizizz",
+    "careerPage": "https://quizizz.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/quizizz"
+  },
+  {
+    "id": 267,
+    "name": "Rain Instant Pay",
+    "careerPage": "https://www.rain.in",
+    "linkedIn": "https://www.linkedin.com/company/rain"
+  },
+  {
+    "id": 268,
+    "name": "Razorpay",
+    "careerPage": "https://razorpay.com/jobs",
+    "linkedIn": "https://www.linkedin.com/company/razorpay"
+  },
+  {
+    "id": 269,
+    "name": "Rebel Foods",
+    "careerPage": "https://www.rebelfoods.com",
+    "linkedIn": "https://www.linkedin.com/company/rebel-foods"
+  },
+  {
+    "id": 270,
+    "name": "Reliance Retail",
+    "careerPage": "https://www.relianceretail.com/careers.html",
+    "linkedIn": "https://www.linkedin.com/company/reliance-retail"
+  },
+  {
+    "id": 271,
+    "name": "Revolut",
+    "careerPage": "https://www.revolut.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/revolut"
+  },
+  {
+    "id": 272,
+    "name": "Rippling",
+    "careerPage": "https://www.rippling.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/rippling"
+  },
+  {
+    "id": 273,
+    "name": "Rivigo",
+    "careerPage": "https://www.rivigo.com",
+    "linkedIn": "https://www.linkedin.com/company/rivigo"
+  },
+  {
+    "id": 274,
+    "name": "Rubrik",
+    "careerPage": "https://www.rubrik.com/company/careers",
+    "linkedIn": "https://www.linkedin.com/company/rubrik-inc"
+  },
+  {
+    "id": 275,
+    "name": "Rupeek",
+    "careerPage": "https://www.rupeek.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/rupeek"
+  },
+  {
+    "id": 276,
+    "name": "SABRE",
+    "careerPage": "https://www.sabre.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/sabre-corporation"
+  },
+  {
+    "id": 277,
+    "name": "SAP Labs",
+    "careerPage": "https://jobs.sap.com",
+    "linkedIn": "https://www.linkedin.com/company/sap"
+  },
+  {
+    "id": 278,
+    "name": "Salesken",
+    "careerPage": "https://salesken.ai",
+    "linkedIn": "https://www.linkedin.com/company/salesken"
+  },
+  {
+    "id": 279,
+    "name": "Samsung",
+    "careerPage": "https://www.samsung.com/us/careers",
+    "linkedIn": "https://www.linkedin.com/company/samsung-electronics"
+  },
+  {
+    "id": 280,
+    "name": "Sapient",
+    "careerPage": "https://www.publicissapient.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/sapient"
+  },
+  {
+    "id": 281,
+    "name": "Schlumberger",
+    "careerPage": "https://www.slb.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/slb"
+  },
+  {
+    "id": 282,
+    "name": "SenseHq",
+    "careerPage": "https://www.sensehq.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/sensehq"
+  },
+  {
+    "id": 283,
+    "name": "Servicenow",
+    "careerPage": "https://www.servicenow.com/careers.html",
+    "linkedIn": "https://www.linkedin.com/company/servicenow"
+  },
+  {
+    "id": 284,
+    "name": "ShareChat",
+    "careerPage": "https://sharechat.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/sharechat"
+  },
+  {
+    "id": 285,
+    "name": "Shiprocket",
+    "careerPage": "https://www.shiprocket.in",
+    "linkedIn": "https://www.linkedin.com/company/shiprocket"
+  },
+  {
+    "id": 286,
+    "name": "Sigmoid",
+    "careerPage": "https://sigmoid.com",
+    "linkedIn": "https://www.linkedin.com/company/sigmoid"
+  },
+  {
+    "id": 287,
+    "name": "Sigtuple",
+    "careerPage": "https://sigtuple.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/sigtuple"
+  },
+  {
+    "id": 288,
+    "name": "Simpl",
+    "careerPage": "https://www.getsimpl.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/getsimpl"
+  },
+  {
+    "id": 289,
+    "name": "Sixt",
+    "careerPage": "https://www.sixt.jobs",
+    "linkedIn": "https://www.linkedin.com/company/sixt"
+  },
+  {
+    "id": 290,
+    "name": "Smart Coin Financials",
+    "careerPage": "https://smartcoin.co.in/careers",
+    "linkedIn": "https://www.linkedin.com/company/smartcoin-financials"
+  },
+  {
+    "id": 291,
+    "name": "SocGen",
+    "careerPage": "https://careers.societegenerale.com",
+    "linkedIn": "https://www.linkedin.com/company/societe-generale"
+  },
+  {
+    "id": 292,
+    "name": "Sostronk",
+    "careerPage": "https://www.sostronk.com",
+    "linkedIn": "https://www.linkedin.com/company/sostronk"
+  },
+  {
+    "id": 293,
+    "name": "Spinny",
+    "careerPage": "https://www.spinny.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/spinny"
+  },
+  {
+    "id": 294,
+    "name": "SplashLearn",
+    "careerPage": "https://www.splashlearn.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/splashlearn"
+  },
+  {
+    "id": 295,
+    "name": "Sprinklr",
+    "careerPage": "https://www.sprinklr.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/sprinklr"
+  },
+  {
+    "id": 296,
+    "name": "Stashfin",
+    "careerPage": "https://www.stashfin.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/stashfin"
+  },
+  {
+    "id": 297,
+    "name": "Sumo Logic",
+    "careerPage": "https://www.sumologic.com/company/careers",
+    "linkedIn": "https://www.linkedin.com/company/sumo-logic"
+  },
+  {
+    "id": 298,
+    "name": "Swiggy",
+    "careerPage": "https://careers.swiggy.com",
+    "linkedIn": "https://www.linkedin.com/company/swiggy-in"
+  },
+  {
+    "id": 299,
+    "name": "Synopsys",
+    "careerPage": "https://www.synopsys.com/careers.html",
+    "linkedIn": "https://www.linkedin.com/company/synopsys"
+  },
+  {
+    "id": 300,
+    "name": "Target",
+    "careerPage": "https://corporate.target.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/target"
+  },
+  {
+    "id": 301,
+    "name": "Tata 1mg",
+    "careerPage": "https://www.1mg.com",
+    "linkedIn": "https://www.linkedin.com/company/1mg"
+  },
+  {
+    "id": 302,
+    "name": "Telstra",
+    "careerPage": "https://www.telstra.com.au/careers",
+    "linkedIn": "https://www.linkedin.com/company/telstra"
+  },
+  {
+    "id": 303,
+    "name": "Tesco",
+    "careerPage": "https://www.tesco-careers.com",
+    "linkedIn": "https://www.linkedin.com/company/tesco"
+  },
+  {
+    "id": 304,
+    "name": "Texas Instruments",
+    "careerPage": "https://careers.ti.com",
+    "linkedIn": "https://www.linkedin.com/company/texas-instruments"
+  },
+  {
+    "id": 305,
+    "name": "Times Internet",
+    "careerPage": "https://timesinternet.in/careers",
+    "linkedIn": "https://www.linkedin.com/company/timesinternet"
+  },
+  {
+    "id": 306,
+    "name": "Tokopedia",
+    "careerPage": "https://www.tokopedia.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/pt-tokopedia"
+  },
+  {
+    "id": 307,
+    "name": "TomTom",
+    "careerPage": "https://www.tomtom.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/tomtom"
+  },
+  {
+    "id": 308,
+    "name": "Toppr",
+    "careerPage": "https://www.toppr.com",
+    "linkedIn": "https://www.linkedin.com/company/toppr"
+  },
+  {
+    "id": 309,
+    "name": "Tower Research Capital",
+    "careerPage": "https://www.tower-research.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/tower-research-capital"
+  },
+  {
+    "id": 310,
+    "name": "Traveloka",
+    "careerPage": "https://www.traveloka.com/en-us/careers",
+    "linkedIn": "https://www.linkedin.com/company/traveloka-com"
+  },
+  {
+    "id": 311,
+    "name": "Trifacta",
+    "careerPage": "https://www.trifacta.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/trifacta"
+  },
+  {
+    "id": 312,
+    "name": "Trinkerr",
+    "careerPage": "https://www.trinkerr.com",
+    "linkedIn": "https://www.linkedin.com/company/trinkerr"
+  },
+  {
+    "id": 313,
+    "name": "TruEra",
+    "careerPage": "https://truera.com",
+    "linkedIn": "https://www.linkedin.com/company/truera"
+  },
+  {
+    "id": 314,
+    "name": "Turvo",
+    "careerPage": "https://turvo.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/turvo"
+  },
+  {
+    "id": 315,
+    "name": "Twilio",
+    "careerPage": "https://www.twilio.com/company/jobs",
+    "linkedIn": "https://www.linkedin.com/company/twilio-inc-"
+  },
+  {
+    "id": 316,
+    "name": "UOLO",
+    "careerPage": "https://www.uolo.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/uolo"
+  },
+  {
+    "id": 317,
+    "name": "Udaan",
+    "careerPage": "https://udaan.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/udaan"
+  },
+  {
+    "id": 318,
+    "name": "UiPath",
+    "careerPage": "https://www.uipath.com/company/careers",
+    "linkedIn": "https://www.linkedin.com/company/uipath"
+  },
+  {
+    "id": 319,
+    "name": "Unacademy",
+    "careerPage": "https://unacademy.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/unacademy"
+  },
+  {
+    "id": 320,
+    "name": "Upstox",
+    "careerPage": "https://upstox.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/upstox"
+  },
+  {
+    "id": 321,
+    "name": "Urban Company",
+    "careerPage": "https://www.urbancompany.com",
+    "linkedIn": "https://www.linkedin.com/company/urban-company"
+  },
+  {
+    "id": 322,
+    "name": "Urban Ladder",
+    "careerPage": "https://www.urbanladder.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/urban-ladder"
+  },
+  {
+    "id": 323,
+    "name": "Visa",
+    "careerPage": "https://usa.visa.com/careers.html",
+    "linkedIn": "https://www.linkedin.com/company/visa"
+  },
+  {
+    "id": 324,
+    "name": "Vogo",
+    "careerPage": "https://www.vogo.in",
+    "linkedIn": "https://www.linkedin.com/company/vogo"
+  },
+  {
+    "id": 325,
+    "name": "Vymo",
+    "careerPage": "https://getvymo.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/vymo"
+  },
+  {
+    "id": 326,
+    "name": "Walmart",
+    "careerPage": "https://careers.walmart.com",
+    "linkedIn": "https://www.linkedin.com/company/walmart"
+  },
+  {
+    "id": 327,
+    "name": "Wells Fargo",
+    "careerPage": "https://www.wellsfargo.com/about/careers",
+    "linkedIn": "https://www.linkedin.com/company/wellsfargo"
+  },
+  {
+    "id": 328,
+    "name": "Western Digital",
+    "careerPage": "https://jobs.westerndigital.com",
+    "linkedIn": "https://www.linkedin.com/company/western-digital"
+  },
+  {
+    "id": 329,
+    "name": "Whatfix",
+    "careerPage": "https://whatfix.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/whatfix"
+  },
+  {
+    "id": 330,
+    "name": "Wingify",
+    "careerPage": "https://wingify.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/wingify"
+  },
+  {
+    "id": 331,
+    "name": "Winzo",
+    "careerPage": "https://www.winzogames.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/winzogames"
+  },
+  {
+    "id": 332,
+    "name": "Wooqer",
+    "careerPage": "https://wooqer.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/wooqer"
+  },
+  {
+    "id": 333,
+    "name": "World Quant",
+    "careerPage": "https://www.worldquant.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/worldquant"
+  },
+  {
+    "id": 334,
+    "name": "Xerox Research",
+    "careerPage": "https://www.xerox.com/en-us/jobs",
+    "linkedIn": "https://www.linkedin.com/company/xerox"
+  },
+  {
+    "id": 335,
+    "name": "Xilinx",
+    "careerPage": "https://www.xilinx.com/about/careers.html",
+    "linkedIn": "https://www.linkedin.com/company/xilinx"
+  },
+  {
+    "id": 336,
+    "name": "Yellow AI",
+    "careerPage": "https://yellow.ai/company/careers",
+    "linkedIn": "https://www.linkedin.com/company/yellowdotai"
+  },
+  {
+    "id": 337,
+    "name": "Yubi",
+    "careerPage": "https://www.yubi.co.in/careers",
+    "linkedIn": "https://www.linkedin.com/company/yubi"
+  },
+  {
+    "id": 338,
+    "name": "Yugabyte",
+    "careerPage": "https://www.yugabyte.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/yugabyte"
+  },
+  {
+    "id": 339,
+    "name": "Zebpay",
+    "careerPage": "https://zebpay.com/in/careers",
+    "linkedIn": "https://www.linkedin.com/company/zebpay"
+  },
+  {
+    "id": 340,
+    "name": "Zendrive",
+    "careerPage": "https://www.zendrive.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/zendrive"
+  },
+  {
+    "id": 341,
+    "name": "Zenefits",
+    "careerPage": "https://www.zenefits.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/zenefits"
+  },
+  {
+    "id": 342,
+    "name": "Zeotap",
+    "careerPage": "https://www.zeotap.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/zeotap"
+  },
+  {
+    "id": 343,
+    "name": "Zepto",
+    "careerPage": "https://www.zeptonow.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/zeptonow"
+  },
+  {
+    "id": 344,
+    "name": "Zerodha",
+    "careerPage": "https://zerodha.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/zerodha"
+  },
+  {
+    "id": 345,
+    "name": "Zomato",
+    "careerPage": "https://www.zomato.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/zomato"
+  },
+  {
+    "id": 346,
+    "name": "Zoomcar",
+    "careerPage": "https://www.zoomcar.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/zoomcar-india"
+  },
+  {
+    "id": 347,
+    "name": "Zupee",
+    "careerPage": "https://www.zupee.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/zupee"
+  },
+  {
+    "id": 348,
+    "name": "Zynga",
+    "careerPage": "https://www.zynga.com/careers",
+    "linkedIn": "https://www.linkedin.com/company/zynga"
+  }
+]
