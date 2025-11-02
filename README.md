@@ -1,16 +1,34 @@
-# React + Vite
+# CompanyDirectory
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**CompanyDirectory** is a simple web application that lists all top companies offering **Software Engineering** and **SDE (Software Development Engineer)** roles.  
+The goal of this project is to provide **one central place** where you can easily find links to each company's **Career Page** and **LinkedIn Page** — helping job seekers explore and apply efficiently.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## React Compiler
+- Displays a list of companies in **alphabetical order**.  
+- Each company entry includes:
+  - Company Name  
+  - Career Page Link  
+  - LinkedIn Page Link  
+- Built with a clean and responsive UI using **Tailwind CSS**.  
+- Easy navigation to explore company career opportunities directly.
 
-The React Compiler is currently not compatible with SWC. See [this issue](https://github.com/vitejs/vite-plugin-react/issues/428) for tracking the progress.
+---
 
-## Expanding the ESLint configuration
+## Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Frontend:** React.js  
+- **Styling:** Tailwind CSS  
+- **Data Source:** JSON file containing company details (name, career page, LinkedIn link)
+
+---
+
+## Purpose
+
+This project aims to help aspiring **software engineers** and **developers** quickly access genuine and verified company job portals — instead of searching each one manually.  
+You’ll find all reputed companies' job pages **in one place**.
+
+
+
